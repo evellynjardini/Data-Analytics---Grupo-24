@@ -1,145 +1,70 @@
-# 📊 Análise de KPIs - E-commerce Olist
+# 📊 Projetos de Análise de Dados - Pós-Graduação
 
-## 📌 Sobre o Projeto
+## 📌 Sobre o Repositório
 
-Este projeto tem como objetivo analisar indicadores-chave de desempenho (KPIs) de um cenário de e-commerce baseado na empresa Olist. A proposta é transformar dados em insights estratégicos que auxiliem na tomada de decisão, com foco em quatro pilares principais:
+Este repositório foi criado com o objetivo de centralizar os projetos desenvolvidos ao longo da pós-graduação, com foco em análise de dados, engenharia de dados e geração de insights estratégicos.
 
-* 📈 Receita
-* 🚚 Logística e SLA
-* ⭐ Satisfação do Cliente
-* 🔄 Retenção de Clientes
-
-A análise busca identificar padrões de comportamento de compra, eficiência operacional e impactos na experiência do cliente ao longo do tempo.
+Cada projeto aborda um problema de negócio específico, aplicando técnicas de tratamento de dados, análise exploratória, definição de KPIs e construção de dashboards.
 
 ---
 
-## 🎯 Problema de Negócio
+## 🎯 Objetivo
 
-Quais categorias de produtos ou estados trazem o maior volume financeiro e como o comportamento de compra varia ao longo do tempo?
-
----
-
-## 📊 KPIs Analisados
-
-### 💰 Receita (Responsável: Evellyn)
-
-* Volume Bruto de Mercadorias (GMV)
-* Ticket Médio
-* Itens por Pedido
-* Taxa de Crescimento Mensal
-* Top 10 Categorias
+* Aplicar na prática os conceitos aprendidos durante a pós-graduação
+* Desenvolver projetos com foco em problemas reais de negócio
+* Evoluir habilidades em análise e engenharia de dados
+* Construir um portfólio consistente e profissional
 
 ---
 
-### 🚚 Logística e SLA (Responsável: Bruna)
+## 📂 Estrutura do Repositório
 
-* Tempo Médio por Etapa
-  (Compra → Aprovação → Postagem → Entrega)
-* Taxa de Atraso (% de pedidos fora do prazo)
+```
+📁 pos-analytics-projetos
+│
+├── 📁 1 - Projeto-Olist-KPIs
+└── README.md
+```
 
-#### 🔍 Estratégias propostas:
+Cada pasta contém:
 
-* Otimização logística regional
-* Pricing dinâmico baseado em categorias
-* Foco em eficiência operacional
-
----
-
-### ⭐ Satisfação do Cliente (Responsável: Maycon)
-
-* Correlação entre atraso e Review Score
-* Nota Média ao Longo do Tempo
-* % de Avaliações Positivas
-* % de Pedidos com Atraso
-
-#### 🎯 Objetivos:
-
-* Medir a percepção geral do cliente
-* Avaliar impacto da logística na satisfação
-* Monitorar evolução da qualidade do serviço
-
----
-
-### 🔄 Retenção de Clientes
-
-* Churn Rate
-* Taxa de Recompra
-* Ativação de Clientes Inativos
-
-#### 🔍 Análise proposta:
-
-* Identificar fatores que levam à não recompra
-* Avaliar impacto de atrasos na retenção
-* Entender comportamento de clientes recorrentes vs. inativos
-
-#### 🚀 Recomendações iniciais:
-
-* Implementar programas de fidelidade para os 98.666 pedidos únicos, visando aumentar a taxa de recompra
-* Desenvolver estratégias de reativação de clientes inativos
-* Utilizar campanhas segmentadas com base em comportamento de compra
-* Priorizar excelência logística como diferencial competitivo no longo prazo
+* Análises em notebooks (Google Colab)
+* Bases de dados utilizadas
+* Relatórios e documentações
+* README específico do projeto
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 * Python (Pandas, NumPy)
+* SQL
 * Google Colab
-* SQL (MySQL)
 * Power BI
 * Excel
 * Git e GitHub
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🚀 Projetos Desenvolvidos
 
-```
-📁 projeto-kpis-olist
-│
-├── 📁 notebooks         # Análises e tratamento de dados (Google Colab)
-├── 📁 datasets          # Dados utilizados no projeto
-├── 📁 docs              # Relatório executivo
-```
+### 📌 Projeto 1: Análise de KPIs - E-commerce Olist
 
----
+Análise de indicadores de desempenho com foco em receita, logística, satisfação do cliente e retenção.
 
-## 📈 Objetivo da Análise
-
-* Identificar categorias mais lucrativas
-* Avaliar eficiência logística
-* Medir impacto na satisfação do cliente
-* Melhorar retenção e recompra
-* Gerar insights estratégicos orientados a dados
-
----
-
-## 🚀 Resultados Esperados
-
-* Insights acionáveis para tomada de decisão
-* Identificação de gargalos operacionais
-* Melhoria na experiência do cliente
-* Aumento de retenção e receita
-
----
-
-## 🔗 Links Importantes
-
-* 📓 Notebook (Google Colab): *(inserir link)*
-* 📁 Dataset: *(inserir link)*
-* 📄 Relatório Executivo: *(inserir link)*
+🔗 [Ver detalhes do projeto](https://github.com/evellynjardini/Data-Analytics---Grupo-24/tree/main/1%20-%20Projeto-Olist-KPIs)
 
 ---
 
 ## 👥 Equipe
 
-* Evellyn – KPIs de Receita
-* Bruna – Logística e SLA
-* Maycon – Satisfação do Cliente
-* Allan - Retenção de Clientes
-* Carlos - Analise de Pedidos
+Repositório desenvolvido em grupo durante a pós-graduação.
 
 ---
+
+## 📌 Considerações Finais
+
+Este repositório representa a evolução prática dos conhecimentos adquiridos ao longo do curso, com foco na aplicação de dados para geração de valor no negócio.
 
 ## 📌 Considerações Finais
 
