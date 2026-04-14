@@ -60,7 +60,7 @@ Quais categorias de produtos ou estados trazem o maior volume financeiro e como 
 
 ---
 
-### 🔄 Retenção de Clientes
+### 🔄 Retenção de Clientes (Responsável: Allan)
 
 * Churn Rate
 * Taxa de Recompra
